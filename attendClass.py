@@ -1,1 +1,2 @@
-input = name("Is there class today?")
+name = Jesse
+input = Jesse("Is there class today?")
