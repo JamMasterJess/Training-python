@@ -1,1 +1,1 @@
-input = ("")
+input = name("Is there class today?")
