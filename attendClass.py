@@ -2,7 +2,7 @@ class1 = input('Is there class today?')
 if class1 == 'y': 
   wake1 = input('Did you wake up on time?')
   if wake1 == 'y':
-    print('Get Weather')
+    getWeather = input("What is the temperature outside?: ")
     weather1 = input('Is it nice out?')
     if weather1 == 'y':
       trans1 = input('Do you have transportation?')
@@ -28,3 +28,4 @@ if class1 == 'y':
       print('Go back to sleep') 
 if class1 == 'n':
   print('Go back to sleep')
+
